@@ -1,9 +1,9 @@
 
 # DAUUZ (DUZ)
 
-Elpis — The dangerous thing that shines bright
+Elpis : The dangerous thing that shines bright
 
-DAUUZ is a fixed-supply digital token designed to reward effort, contribution, and real participation — especially from people ignored by traditional systems.
+DAUUZ is a fixed-supply digital token designed to reward effort, contribution, and real participation, especially from people ignored by traditional systems.
 
  
 
@@ -17,13 +17,13 @@ DAUUZ rewards:
 - Creating value  
 - Contributing ideas  
 
-Hope (Elpis) is powerful — because it makes people act.
+Hope (Elpis) is powerful; because it makes people act.
 
  
 
 ## 🪙 Token Supply
 
- Total Supply:   20,000,000 DUZ (fixed — cannot be minted)
+ Total Supply:   20,000,000 DUZ (fixed)
 
 ### Distribution
 
@@ -33,12 +33,11 @@ Hope (Elpis) is powerful — because it makes people act.
 -   ⅓ of the Airdrop (2,222,222 DUZ)    
   Reserved for  early contributors / community builders .
 
--   ⅓ Earned Over Time (6,666,666 DUZ)    
-  Rewards for tasks, participation, ecosystem contributions.
+-   ⅓ Public sale & liquidity (6,666,666 DUZ)    
+  ecosystem contributorss, investors and holders.
 
 -   ⅓ Reserve (6,666,666 DUZ)    
   Long-term ecosystem stability, governance, and sustainability.  
-   No VC allocation. No hidden minting. 
 
  
 
