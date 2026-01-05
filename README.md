@@ -1,7 +1,7 @@
 
 # DAUUZ (DUZ)
 
-Elpis : The dangerous thing that shines bright
+Elpis : Man pave his own path
 
 DAUUZ is a fixed-supply digital token designed to reward effort, contribution, and real participation, especially from people ignored by traditional systems.
 
