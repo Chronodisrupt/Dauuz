@@ -1,10 +1,10 @@
+ 
 
+DAUUZ (DUZ) : Decentralized Participation Token
 
-DAUUZ (DUZ) — Decentralized Participation Token
+Tagline: Elpis | Man paves his own path
 
-Tagline: Elpis — Man paves his own path
-
-DAUUZ is a prelaunch, fixed-supply digital token that rewards effort, contribution, and real-world participation, with a long-term vision of connecting personal growth and mental wellness to tangible value. Unlike most systems that reward capital or speculation, DAUUZ rewards meaningful action and human contribution — all before any blockchain integration.
+DAUUZ is a prelaunch, fixed-supply digital token that rewards effort, contribution, and real-world participation, with a long-term vision of connecting personal growth and mental wellness to tangible value. Unlike most systems that reward capital or speculation, DAUUZ rewards meaningful action and human contribution   all before any blockchain integration.
 
 
 ---
@@ -22,7 +22,7 @@ Creates scarce, psychologically meaningful digital assets
 Prelaunch MVP simulates participation mining before chain launch
 
 
-> “We reward presence, creativity, and consistency — not just money.”
+> “We reward presence, creativity, and consistency.”
 
 
 
@@ -82,7 +82,7 @@ Daily progress tracking
 
 Conversion (Future): Zoi Points → DUZ via controlled cycles once blockchain launch occurs.
 
-> You grow → You heal → You earn → The ecosystem strengthens → DUZ gains real-world value.
+> You grow → You heal → You earn → The ecosystem strengthens.
 
 
 
@@ -166,6 +166,7 @@ DAO Github Repository
 MVP Dashboard: dashboard.html
 
 Tokenomics & Leaderboard: Supabase backend
+
 
 
 
