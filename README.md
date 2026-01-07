@@ -46,6 +46,8 @@ Hope (Elpis) is powerful; because it makes people act.
 Status:   Early concept + ecosystem design    
 We’re building slowly, openly, and with intention.
 
+First MVP where early contributors and belivers can earn DUZ by showing up and providing value is developed and ready to ship
+
 No hype. No promises. Just honesty.
 
  
