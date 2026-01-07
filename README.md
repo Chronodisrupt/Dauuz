@@ -58,10 +58,15 @@ During the prelaunch MVP phase, users earn DUZ by performing verifiable actions:
 Task	Reward	Limit
 
 Referral	0.01 DUZ	Unlimited
+
 Awareness / Social Post	0.0125 DUZ	Max 4 posts/day
+
 Survey Completion	0.025 DUZ	Once per user
+
 Innovative Idea Submission	1 DUZ	Reviewed by team
+
 Exceptional Idea	10 DUZ	Extremely rare, selected by core team
+
 
 
 Principle: Hard-earned DUZ = Real contribution, not wasted resources.
