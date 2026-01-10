@@ -82,7 +82,7 @@ Zoi is a planned **mental wellness companion app**:
 
 - Users earn **Zoi Points**  
 - Points convert to DUZ through **controlled mint cycles**  
-- Mint cycles occur every **2–4 years**, similar to Bitcoin halvings  
+- Mint cycles occur every **4 years**, similar to Bitcoin halvings  
 - Draws from the **10M Zoi Reserve**
 
 > You grow → You heal → You earn → The ecosystem strengthens.
