@@ -1,13 +1,13 @@
 # DAUUZ Whitepaper (v1.0)
 
-**DAUUZ (DUZ) — Decentralized Participation Token**  
-**Tagline:** *Elpis — Man paves his own path*
+**DAUUZ (DUZ) : Decentralized Participation Token**  
+**Tagline:** *Elpis : Man paves his own path*
 
 ---
 
 ## 1. Overview
 
-DAUUZ is a **fixed-supply digital token** designed to reward **real human contribution, creativity, and consistent action**. Unlike most systems that reward capital, speculation, or attention, DAUUZ rewards **presence, effort, and meaningful engagement** — long before any blockchain deployment.
+DAUUZ is a **fixed-supply digital token** designed to reward **real human contribution, creativity, and consistent action**. Unlike most systems that reward capital, speculation, or attention, DAUUZ rewards **presence, effort, and meaningful engagement**  long before any blockchain deployment.
 
 The project starts **off-chain** via a **prelaunch MVP dashboard**, simulating participation mining, and will gradually integrate **on-chain** and with **Zoi**, a mental wellness companion app.
 
@@ -39,7 +39,7 @@ DAUUZ is **long-term, deliberate, and transparent**.
 |----------|--------|-------|
 | Community + Airdrop | 2,000,000 | Early users, free distribution, prelaunch MVP |
 | Contributors & Earned Tasks | 4,000,000 | Reward for prelaunch contribution, tasks, referrals |
-| Zoi Reserve (Locked) | 10,000,000 | Minted via Zoi Points cycles every 2–4 years |
+| Zoi Reserve (Locked) | 10,000,000 | Minted via Zoi Points cycles every 4 years |
 | Liquidity & Stability Reserve (LSR) | 14,000,000 | On-chain liquidity, market stability, future expansion |
 
 **Principles:**
