@@ -1,177 +1,240 @@
- 
+DAUUZ (DUZ)
 
-DAUUZ (DUZ) : Decentralized Participation Token
+Decentralized Participation Token
 
-Tagline: Elpis | Man paves his own path
-
-DAUUZ is a prelaunch, fixed-supply digital token that rewards effort, contribution, and real-world participation, with a long-term vision of connecting personal growth and mental wellness to tangible value. Unlike most systems that reward capital or speculation, DAUUZ rewards meaningful action and human contribution   all before any blockchain integration.
+Tagline: Elpis — Man paves his own path
 
 
----
+
+Overview
+
+DAUUZ (DUZ) is a fixed-supply digital participation token designed to reward real human effort, contribution, and growth — not capital, speculation, or automation.
+
+DAUUZ begins off-chain with a verifiable participation system and evolves on-chain over time, connecting contribution, community building, and long-term mental wellness to tangible digital value.
+
+> No hype. No shortcuts. No secret minting.
+
+
+
+
 
 1. Vision
 
-DAUUZ is designed to empower ordinary people to earn digital wealth through awareness, contribution, and self-growth, instead of machines, algorithms, or speculation.
+Modern systems reward capital, bots, and attention extraction.
+DAUUZ exists to reward presence, creativity, consistency, and contribution.
 
-Connects personal development with token rewards
+DAUUZ aims to:
 
-Builds community-first ecosystems
+Empower ordinary people to earn value through action
 
-Creates scarce, psychologically meaningful digital assets
+Build a contribution-first digital economy
 
-Prelaunch MVP simulates participation mining before chain launch
+Create a scarce, psychologically meaningful token
 
-
-> “We reward presence, creativity, and consistency.”
-
-
+Connect long-term self-growth with economic participation
 
 
----
+> “We reward effort before speculation.”
 
-2. Tokenomics (Prelaunch)
 
-Total Supply: 20,000,000 DUZ (reserved at genesis)
 
-Core Philosophy:
+
+
+2. Tokenomics (Final)
+
+Total Supply: 30,000,000 DUZ (hard cap, immutable)
+
+Distribution
+
+Community + Airdrop: 2,000,000 DUZ
+
+Contributors & Earned Tasks: 4,000,000 DUZ
+
+Zoi Reserve (Locked): 10,000,000 DUZ
+
+Liquidity & Stability Reserve (LSR): 14,000,000 DUZ
+
+
+Core Principles
 
 No inflation
 
-Scarcity-driven
+No hidden minting
 
-Participation-based rewards
+No VC allocation
 
-Community-focused distribution
+Transparent, auditable distribution
+
+Supply fixed from genesis
 
 
-> Blockchain integration will come later; currently all rewards and balances are managed in-app and on our Supabase backend.
+> During prelaunch, DUZ balances are tracked off-chain.
+Blockchain deployment will occur after participation systems are proven.
 
 
 
 
 ---
 
-3. Prelaunch Participation Mining System
+3. Prelaunch Participation System (MVP)
 
-During the prelaunch MVP phase, users earn DUZ by performing verifiable actions:
+Before any blockchain integration, DAUUZ operates a participation-mining MVP.
+
+Users earn DUZ by completing verifiable, human actions.
+
+Example Tasks
 
 Task	Reward	Limit
 
-Referral	0.01 DUZ	Unlimited
-
-Awareness / Social Post	0.0125 DUZ	Max 4 posts/day
-
-Survey Completion	0.025 DUZ	Once per user
-
-Innovative Idea Submission	1 DUZ	Reviewed by team
-
-Exceptional Idea	10 DUZ	Extremely rare, selected by core team
+Referral	0.001 DUZ	Unlimited
+Awareness / Social Post	0.00125 DUZ	Max 4/day
+Survey Completion	0.005 DUZ	Once
+Feedback 0.0014 DUZ weekly 
+Wellness Routine 0.014
+Idea Submission	1 DUZ	Reviewed
 
 
 
-Principle: Hard-earned DUZ = Real contribution, not wasted resources.
+Principle:
+
+> Hard-earned DUZ represents real contribution, not wasted computation.
 
 
----
 
-4. Zoi Integration (Future Phase)
-
-Zoi is a mental wellness companion planned to integrate with DAUUZ:
-
-Journaling & self-reflection
-
-Emotional wellness exercises
-
-Daily progress tracking
+All rewards are tracked transparently in the backend during prelaunch.
 
 
-Conversion (Future): Zoi Points → DUZ via controlled cycles once blockchain launch occurs.
+
+
+4. Zoi Integration (Future)
+
+Zoi is a planned mental-wellness companion app that will integrate with DAUUZ.
+
+Zoi focuses on:
+
+Journaling & reflection
+
+Emotional awareness
+
+Daily consistency & self-growth
+
+Mental health support beyond traditional therapy models
+
+
+Zoi → DUZ Conversion
+
+Zoi generates Zoi Points
+
+Zoi Points convert to DUZ via controlled mint cycles
+
+Mint cycles occur every 2–4 years, similar to Bitcoin halvings
+
+Conversion draws from the locked Zoi Reserve
+
 
 > You grow → You heal → You earn → The ecosystem strengthens.
 
 
 
 
----
-
-5. Roadmap
-
-1. Prelaunch MVP Phase (Now)
-
-In-app dashboard & task system
-
-Leaderboard & referral tracking
-
-Task-based DUZ rewards
 
 
+5. Liquidity & Stability Reserve (LSR)
 
-2. Participation Mining Phase (Pre-Chain)
+The LSR exists solely to support:
 
-Social media & task-based mining
+On-chain liquidity
 
-Idea submission platform
+Market stability
 
-Controlled in-app DUZ distribution
+Gradual ecosystem growth
 
 
+LSR rules:
 
-3. Zoi & Blockchain Integration (Future)
+Pre-minted and visible on-chain
 
-Zoi app & mental wellness tracking
+Rate-limited deployment
 
-Conversion cycles for Zoi Points → DUZ
+Not used for rewards, salaries, or private sales
 
-Scalable ecosystem with early adopter rewards
+Fully auditable
+
+
+LSR exists to stabilize the ecosystem — not to extract value.
 
 
 
 
+6. Roadmap (High Level)
 
----
+Phase 1 — Prelaunch MVP (Current)
 
-6. Get Involved
+Participation dashboard
 
-We are looking for passionate contributors:
+Task system & referrals
 
-Frontend/backend engineers
-
-Designers & UI/UX experts
-
-Community managers & systems thinkers
+Off-chain DUZ tracking
 
 
-> DAUUZ is a long-term vision, starting with prelaunch MVP. We build slowly, openly, and deliberately.
+Phase 2 — Participation Expansion
+
+Community growth
+
+Contributor onboarding
+
+Refined earning rules
+
+
+Phase 3 — Blockchain Integration
+
+Testnet deployment
+
+Initial liquidity
+
+Public on-chain DUZ
+
+
+Phase 4 — Zoi Integration
+
+Zoi app launch
+
+Long-term mint cycles
+
+Mental wellness + value alignment
 
 
 
-
----
 
 7. Principles
 
-Scarcity: Limited supply from genesis
+Scarcity: Fixed supply from genesis
 
-Transparency: Open allocations & distributions
+Transparency: Open logic and distribution
 
-Human-first: Rewards real effort
+Human-First: Reward effort, not automation
 
 Integrity: No hype, no shortcuts
 
-Community: Build in public
+Community: Build openly and deliberately
 
 
 
----
 
-8. Resources
+8. Get Involved
 
-DAO Github Repository
+DAUUZ is early and intentionally slow.
 
-MVP Dashboard: dashboard.html
+We are looking for:
 
-Tokenomics & Leaderboard: Supabase backend
+Engineers
+
+Designers
+
+Community builders
+
+Thoughtful contributors
 
 
-
+> DAUUZ is not a pump — it is a process.
 
