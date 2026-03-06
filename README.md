@@ -2,13 +2,13 @@ DAUUZ (DUZ)
 
 Decentralized Participation Token
 
-Tagline: Elpis — Man paves his own path
+Tagline: Elpis | Man paves his own path
 
 
 
 Overview
 
-DAUUZ (DUZ) is a fixed-supply digital participation token designed to reward real human effort, contribution, and growth — not capital, speculation, or automation.
+DAUUZ (DUZ) is a fixed-supply digital participation token designed to reward real human effort, contribution, and growth, not capital, speculation, or automation.
 
 DAUUZ begins off-chain with a verifiable participation system and evolves on-chain over time, connecting contribution, community building, and long-term mental wellness to tangible digital value.
 
@@ -168,7 +168,7 @@ LSR exists to stabilize the ecosystem — not to extract value.
 
 6. Roadmap (High Level)
 
-Phase 1 — Prelaunch MVP (Current)
+Phase 1 : Prelaunch MVP (Current)
 
 Participation dashboard
 
@@ -177,7 +177,7 @@ Task system & referrals
 Off-chain DUZ tracking
 
 
-Phase 2 — Participation Expansion
+Phase 2 : Participation Expansion
 
 Community growth
 
@@ -186,7 +186,7 @@ Contributor onboarding
 Refined earning rules
 
 
-Phase 3 — Blockchain Integration
+Phase 3 : Blockchain Integration
 
 Testnet deployment
 
@@ -195,7 +195,7 @@ Initial liquidity
 Public on-chain DUZ
 
 
-Phase 4 — Zoi Integration
+Phase 4 : Zoi Integration
 
 Zoi app launch
 
